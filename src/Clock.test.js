@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, act} from '@testing-library/react';
-import Clock from './App.js';
+import Clock from './Click.js';
 
 describe('Clock', () => {
     jest.useFakeTimers();
